@@ -8,4 +8,4 @@ Currently I am a Compiler Engineer at Facebook where I've worked on problems ran
 
 * **Georgia Institute of Technology:** BS+MS. Mostly focused on things like systems, networking, computer architecture, and compilers.
 
-* **Intel:** Briefly worked as a compiler engineer on a team of folks that were building a language for programming Intel GPUs. I wrote a GPU printf using variadic templates at one point.
+* **Intel:** Briefly worked as a compiler engineer on a team of folks that were building a language for programming Intel GPUs.
