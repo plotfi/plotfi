@@ -6,7 +6,7 @@ Currently I am a Compiler Engineer at Meta where I've worked on problems ranging
 
 ## Past:
 
-* **Apple:** Worked on the team that engineered the Apple GPU compiler backend through many product ship cycles. I've worked on pre and post silicon bring up in various capacities. I built early iterations of internal Apple GPU tooling+infrastructure used for assembly, disassembly, profiling, and Machine IR (MIR) diffing; this partly involved the first effort to standardize assembly syntax for all tools for Apple GPUs across the entire company (assemblers, disassemblers, simulators, profilers, etc). Much of my worked shipped with iOS, Xcode, went into upstream LLVM or an LLVM conference talk, was patented, or was used cross functionally across several orgs. 
+* **Apple:** Worked on the team that engineered the Apple GPU compiler backend through many product ship cycles. I've worked on pre and post silicon bring up in various capacities. I built early iterations of internal Apple GPU tooling+infrastructure used for assembly, disassembly, profiling, and Machine IR (MIR) diffing; this partly involved the first effort to standardize assembly syntax for all tools for Apple GPUs across the entire company (assemblers, disassemblers, simulators, profilers, etc). Much of my work shipped with iOS, Xcode, went into upstream LLVM or an LLVM conference talk, was patented, or was used cross functionally across several orgs. 
 
 * **Intel:** Briefly worked as a compiler engineer on "C for Metal". I am the original author of C for Metal's GPU printf, which is still the suggested debugging mechanism. I also worked on all the tools for verifying and disassembling the Intel GPU bytecode IR. 
 
