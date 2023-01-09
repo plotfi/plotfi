@@ -2,7 +2,7 @@
 
 Currently I am a Compiler Engineer at Meta where I've worked on problems ranging from mobile-app optimization to automated SDK deployment. My work thus far has either shipped in production applications to millions of users or in one case made it into an LLVM lightning talk (and later used to deploy SDKs for another company's operating system, ie Fuchsia). I have spent a good portion of my time collaborating in efforts to do better engineering with upstream compiler codebases used at Meta. More recently I have been working on various efforts to help bring greater Swift adoption to Meta where I have largely been involved in working with framework teams to better interoperate their "ObjC++" heavy codebases with Swift.
 
-[Resume.pdf](https://github.com/plotfi/plotfi/files/8028773/Resume.pdf)
+I can be found at the [LLVM Discord](https://discord.gg/xS7Z362) as zer0#9229.
 
 ## Past:
 
