@@ -1,3 +1,3 @@
 # Puyan Lotfi
 
-I can be found at the [GPUMODE Discord](https://discord.com/invite/gpumode) as puyanlotfi
+I can be found on [#llvm](https://discord.gg/xS7Z362)
