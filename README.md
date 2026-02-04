@@ -1,8 +1,8 @@
 # Puyan Lotfi
 
 ## Contact
-* Discord: @puyanlotfi on ([GPUMODE](https://discord.gg/gpumode)) 
-* Mail: my-github-username@gmail.com
+* Discord: @puyanlotfi on [GPUMODE](https://discord.gg/gpumode)
+* Gmail: plotfi
 
 You wont find me anywhere else.
 
