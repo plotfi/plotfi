@@ -1,10 +1,7 @@
 # Puyan Lotfi
 
-## Contact
+## 📫 Contact
 * Discord: @puyanlotfi on [GPUMODE](https://discord.gg/gpumode)
-* Gmail: plotfi
+* Email: plotfi [at] gmail [dot] com
 
-You wont find me anywhere else.
-
-
-
+Can't find me anywhere else...
