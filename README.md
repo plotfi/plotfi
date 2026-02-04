@@ -2,6 +2,6 @@
 
 ## 📫 Contact
 * Discord: @puyanlotfi on [GPUMODE](https://discord.gg/gpumode)
-* Email: plotfi [at] gmail [dot] com
+* Email: `plotfi [at] gmail [dot] com`
 
 Can't find me anywhere else...
