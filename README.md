@@ -9,7 +9,7 @@ Can't find me anywhere else...
 ## µ-Resume:
 
 ### Meta (2018–Present)
-- GPU/ML compiler development with Triton DSL
+- GPU/ML compiler development with Triton DSL → Currently developing Triton's Extension system
 - Swift C++ interop → Swift 5.9 / Xcode 15
 - Clang Interface Stubs / llvm-ifs (adopted by [Google Fuchsia](https://fuchsia.googlesource.com/fuchsia/+/5e786c3))
 
