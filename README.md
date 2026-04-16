@@ -12,7 +12,7 @@ Can't find me anywhere else...
 - GPU/ML compiler development with Triton DSL → Currently developing Triton's Extension system
 - Swift C++ interop → Swift 5.9 / Xcode 15
 - Clang Interface Stubs / llvm-ifs (adopted by [Google Fuchsia](https://fuchsia.googlesource.com/fuchsia/+/5e786c3))
-- Objective-C Optimizations → Selector compression (ie `hello:world:` to `a::`), `objc_direct` ABI (ie `_<a:b:c:>` symbols from nm)
+- Objective-C Optimizations → Selector compression and objc_direct ABI
 
 ### Apple (2013–2018)
 - LLVM GPU compiler backend (A8–A12, iOS 8–12)
